@@ -8,3 +8,5 @@ I am Tanya - responsible and deadline-oriented Frontend Developer with a positiv
 - Vue, Vuex, Router
 - JavaScript / TypeScript
 
+Now I am studying Angular an improving my knowledges in React and Vue.
+
