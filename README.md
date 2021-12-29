@@ -1,19 +1,7 @@
-### Hi there 👋
-
-I am Tanya - responsible and deadline-oriented Frontend Developer with a positive approach. Opened to learn new and have a lot of patience to be attentive to details.
-
- I am using:
-- HTML & CSS/SCSS
-- React, Redux, Router
-- Vue, Vuex, Router
-- JavaScript / TypeScript
-
-Now I am learning Angular an improving my knowledges in React and Vue.
-
 <h1 align="center">Hi 👋, I'm Tanya</h1>
 <h3 align="center">Responsible and deadline-oriented Frontend Developer with a positive approach.</h3>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular and improving my knowledge of React and Vue**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
